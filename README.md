@@ -1,4 +1,4 @@
-<img align="center" width="1100" alt="Developer" src="https://media.licdn.com/dms/image/D5616AQGYbK-tjxI87A/profile-displaybackgroundimage-shrink_350_1400/0/1688128303632?e=1707955200&v=beta&t=X9_5ahqSu2-erHL5VZ6HMiEcGjGPbfTPeIOrVu3TQu8">
+<img align="center" alt="Developer" src="https://www.sevenmentor.com/wp-content/uploads/2019/12/blog-1-11-dec-980x552-1.jpg">
 
 <h1 align="center">Hi 👋, I'm Visalatchi Srinivasan</h1>
 <h3 align="center">A passionate full stack developer[MEAN Stack]from India</h3>
